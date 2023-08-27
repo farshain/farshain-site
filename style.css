@@ -1,0 +1,18 @@
+table {
+    border: 1px solid black;
+    text-align: center;
+    width: 100%;
+}
+th {
+    border: 1px solid black;
+}
+td {
+    border: 1px solid black;
+}
+figure {
+    float: right;
+    margin: 4px 10px 2px 0px;
+}
+figcaption {
+    color:rgb(255, 0, 200)
+}
