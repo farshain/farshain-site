@@ -1,0 +1,83 @@
+@font-face {
+    font-family: 'Prikol';
+    src: url(../fonts/1.ttf);
+}
+body,
+p,
+h1,
+h2,
+h3,
+a {
+    margin: 0;
+  }  
+header {
+    font-family: 'Roboto';
+    height: 49px;
+    width: 100%;
+    background: rgb(186, 240, 60);
+    position: fixed;
+    z-index:1;
+}
+.header_1text {
+    color: white;
+    font-size: 40px;
+    position: relative;
+    left: 7vw;
+}
+.obomne {
+    font-family: 'Roboto';
+    height: 60px;
+    width: 98%;
+    background: rgb(131, 187, 0);
+    border-radius: 10px;
+    position: relative;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    top: 90px;
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 15px;
+    align-items: center;
+}
+.main {
+    height: 1200px;
+    width: 100%;
+    background: rgb(241, 255, 210);
+}
+.obomne_text {
+    height: 600px;
+    width: 98%;
+    position: relative;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    top: 370px;
+    font-size: 24px;
+    border-radius: 15px;
+    font-family: 'Prikol';
+    line-height: 35px;
+}
+.picture1 {
+    height: 600px;
+    float: right;
+    margin-left: 10px;
+}
+footer {
+    font-family: 'Roboto';
+    height: 150px;
+    width: 100%;
+    background: rgb(73, 73, 73);
+    color: white;
+    border-radius: 10px;
+    font-size: 17px;
+    position: relative;
+    left: 0px;
+    bottom: 0px;
+}
+.logo_up {
+    text-decoration: none;
+    display: block;
+    width: 100px;
+}
