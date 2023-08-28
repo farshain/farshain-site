@@ -2,6 +2,10 @@
     font-family: 'Prikol';
     src: url(../fonts/1.woff);
 }
+@font-face {
+    font-family: 'Roboto';
+    src: url(../fonts/Roboto.woff);
+}
 body,
 p,
 h1,
