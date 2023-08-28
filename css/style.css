@@ -3,7 +3,7 @@
     src: url(../fonts/1.woff);
 }
 @font-face {
-    font-family: 'Roboto';
+    font-family: 'Prikol2';
     src: url(../fonts/Roboto.woff);
 }
 body,
@@ -15,7 +15,7 @@ a {
     margin: 0;
   }  
 header {
-    font-family: 'Roboto';
+    font-family: 'Prikol2';
     height: 49px;
     width: 100%;
     background: rgb(186, 240, 60);
@@ -29,7 +29,7 @@ header {
     left: 7vw;
 }
 .obomne {
-    font-family: 'Roboto';
+    font-family: 'Prikol2';
     height: 60px;
     width: 98%;
     background: rgb(131, 187, 0);
@@ -69,7 +69,7 @@ header {
     margin-left: 10px;
 }
 footer {
-    font-family: 'Roboto';
+    font-family: 'Prikol2';
     height: 150px;
     width: 100%;
     background: rgb(73, 73, 73);
